@@ -1,23 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 24, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Redid the React tutorial
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** This was not that bad! Took me a couple hours to get through but I have an understanding for how it works now. Now to start on a real website...
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: December 26, 2019 
+**Today's Progress**: A little bit of UI design work (did not do too much today)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggled to start coding my app. I feel like it's taking time to get over the anxiety of working with unfamiliar stuff. Still struggling to work through anxiety of work that I'm scared of. 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
-
 
 ### Day 1: June 27, Monday
 
