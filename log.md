@@ -11,7 +11,7 @@
 ### Day 1: December 26, 2019 
 **Today's Progress**: A little bit of UI design work (did not do too much today)
 
-**Thoughts**: I really struggled to start coding my app. I feel like it's taking time to get over the anxiety of working with unfamiliar stuff. Still struggling to work through anxiety of work that I'm scared of. 
+**Thoughts**: I really struggled to start coding my app. I feel like it's taking time to get over the anxiety of working with unfamiliar stuff.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
